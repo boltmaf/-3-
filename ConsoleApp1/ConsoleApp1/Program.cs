@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("hoi");
             Console.WriteLine("hoi");
             int a = 123 + 3;
+            Console.WriteLine("hoi");
         }
     }
 }
