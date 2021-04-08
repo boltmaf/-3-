@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             int a = 123 + 3;
             Console.WriteLine("hoi");
+            sosi;
         }
     }
 }
